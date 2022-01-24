@@ -16,4 +16,4 @@ We are looking for self-motivated individuals with a passion to solve real-world
 
 
 **Application Process**
-1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the ** <ins>corresponding work breakdown structure along with a timeline.</ins> Proposals exceeding 1 page and/or which are very generic will not be considered. **
+1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the <ins>corresponding work breakdown structure along with a timeline.</ins> **Proposals exceeding 1 page and/or which are very generic will not be considered. **
