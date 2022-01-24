@@ -17,4 +17,10 @@ We are looking for self-motivated individuals with a passion to solve real-world
 
 **Application Process**
 1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the <ins>**corresponding work breakdown structure along with a timeline.**</ins> **Proposals exceeding 1 page and/or which are very generic will not be considered.**
-2. You can submit your proposal, latest resume and other relevant details using this form till March 31st 2022: [Apply Now](https://forms.gle/E3S7ruQJzNRgYatD6)
+2. You can submit your proposal, latest resume and other relevant details using this form till **March 31st 2022**: [Apply Now](https://forms.gle/E3S7ruQJzNRgYatD6)
+3. Shortlisted candidates will be notified by **April 15th, 2022**, followed by an online interview.
+4. Selected candidates will be notified by **April 29th, 2022**; Internship would start from **1st week of May 2022.**
+
+**Perks**
+1. Work experience in cutting edge areas of machine learning/AI on real-world customer experience management problems
+2. Stipend
