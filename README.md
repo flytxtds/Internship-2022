@@ -7,9 +7,9 @@ We are looking for self-motivated individuals with a passion to solve real-world
 3. Should be able to devote a minimum of 2 months, starting May 2022
 
 **Problem Description**
-SL No.| Theme | Goal | Success Criteria | Dataset |
-------|--------------|------------------|---------|
-1| Privacy preserving federated learning on tabular data|Create a federated privacy preserving model to predict if a bank customer will subscribe to a term-deposit or not by securely combining customer & marketing data which is split across two banks, without requiring data sharing in plain. Both banks have the same set of customer KPIs, but non-overlapping customers (horizontal federated learning).
+|SL No.| Theme | Goal | Success Criteria | Dataset |
+|------|--------------|------------------|---------|
+|1| Privacy preserving federated learning on tabular data|Create a federated privacy preserving model to predict if a bank customer will subscribe to a term-deposit or not by securely combining customer & marketing data which is split across two banks, without requiring data sharing in plain. Both banks have the same set of customer KPIs, but non-overlapping customers (horizontal federated learning).
 
 The model should be built using Federated Secure XGBoost, an open-source project from UC Berkeley RISE Lab (https://github.com/mc2-project/secure-xgboost)| Federated privacy-preserving model should have higher F1 score than a standard XGBoost model trained on either party's local data alone
 
