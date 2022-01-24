@@ -11,7 +11,9 @@ We are looking for self-motivated individuals with a passion to solve real-world
 
 | SL No.  | Theme | Goal | Success Criteria | Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
-| Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
+| 1  | Privacy preserving federated learning on tabular data | Create a federated privacy preserving model to predict if a bank customer will subscribe to a term-deposit or not by securely combining customer & marketing data which is split across two banks, without requiring data sharing in plain. Both banks have the same set of customer KPIs, but non-overlapping customers (horizontal federated learning).
+
+The model should be built using Federated Secure XGBoost, an open-source project from UC Berkeley RISE Lab (https://github.com/mc2-project/secure-xgboost)  | Content Cell  | Content Cell  |
 | Content Cell  | Content Cell  | Content Cell  | Content Cell  | Content Cell  |
 
 |SL No.| Theme | Goal | Success Criteria | Dataset |
