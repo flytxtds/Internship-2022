@@ -56,5 +56,5 @@ https://www.kaggle.com/jpacse/datasets-for-churn-telecom (71047 instances, 58 fe
 2. Stipend
 
 ## Queries
-You can submit your queries [here] (https://forms.gle/hUcoBxyXzFfkhc4H7). We will get in touch with you.
+You can submit your queries [here](https://forms.gle/hUcoBxyXzFfkhc4H7). We will get in touch with you.
 
