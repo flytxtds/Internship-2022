@@ -29,6 +29,16 @@ Federated privacy-preserving model should have higher F1 score than a standard X
 
 horizontal federated learning is simulated by splitting the dataset horizontally into two at random.
 
+### Theme 2: Explainable AI based on causal reasoning
+
+### Goal:
+Create an explainable causal model for churn which:<br><br>(a) automatically visualizes the causal structure in the observed data<br><br>(b) predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation)<br><br> The model should be built using CausalNex, an open-source project from McKinsey (https://github.com/quantumblacklabs/causalnex)
+
+### Success Criteria:
+(a) Prediction accuracy of the causal model should be comparable to that of a baseline model based on RandomForest<br><br>(b) Domain expert's validation of the learned causal structure; subjective evaluation of causes for churn on a random subset of cases<br><br>*Brownie points for setting up an interactive demo of the model on public cloud, covering the following functionality:<br><br>1. user uploads a churn dataset<br>2. Gets a causal structure visualization which he/she can edit<br>3. KPIs for a user can be entered to get a prediction along with an explanation based on top-3 causal factors  
+
+### Dataset:
+1. https://www.kaggle.com/jpacse/datasets-for-churn-telecom<br>(71047 instances, 58 features)  
 
 | SL No.  | Theme | Goal | Success Criteria | Dataset |
 | ------------- | ------------- | ------------- | ------------- | ------------- |
