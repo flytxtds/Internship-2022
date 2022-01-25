@@ -62,6 +62,6 @@ The model should be built using CausalNex, an open-source project from McKinsey 
 3. Shortlisted candidates will be notified by **April 15th, 2022**, followed by an online interview.
 4. Selected candidates will be notified by **April 29th, 2022**; Internship would start from **1st week of May 2022.**
 
-##Perks
+## Perks
 1. Work experience in cutting edge areas of machine learning/AI on real-world customer experience management problems
 2. Stipend
