@@ -7,6 +7,7 @@ We are looking for self-motivated individuals with a passion to solve real-world
 3. Should be able to devote a minimum of 2 months, starting May 2022
 
 **Problem Description**
+
 Theme 1: **Privacy preserving federated learning on tabular data**
 Goal: 
 Create a federated privacy preserving model to predict if a bank customer will subscribe to a term-deposit or not by securely combining customer & marketing data which is split across two banks, without requiring data sharing in plain. Both banks have the same set of customer KPIs, but non-overlapping customers (horizontal federated learning).
