@@ -56,12 +56,12 @@ The model should be built using CausalNex, an open-source project from McKinsey 
 | 2  | Explainable AI based on causal reasoning   | Create an explainable causal model for churn which:<br><br>(a) automatically visualizes the causal structure in the observed data<br><br>(b) predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation)<br><br> The model should be built using CausalNex, an open-source project from McKinsey (https://github.com/quantumblacklabs/causalnex)  | (a) Prediction accuracy of the causal model should be comparable to that of a baseline model based on RandomForest<br><br>(b) Domain expert's validation of the learned causal structure; subjective evaluation of causes for churn on a random subset of cases<br><br>*Brownie points for setting up an interactive demo of the model on public cloud, covering the following functionality:<br><br>1. user uploads a churn dataset<br>2. Gets a causal structure visualization which he/she can edit<br>3. KPIs for a user can be entered to get a prediction along with an explanation based on top-3 causal factors  | 1. https://www.kaggle.com/jpacse/datasets-for-churn-telecom<br>(71047 instances, 58 features)  |
 
 
-**Application Process**
+## Application Process
 1. Interested candidates should choose <ins>**one**</ins> problem from the above list of problems and prepare a <ins>**1 page**</ins> proposal describing their approach and key milestones. Please note that the proposal should clearly state how <ins>**you**</ins> would approach the problem and the <ins>**corresponding work breakdown structure along with a timeline.**</ins> **Proposals exceeding 1 page and/or which are very generic will not be considered.**
 2. You can submit your proposal, latest resume and other relevant details using this form till **March 31st 2022**: [Apply Now](https://forms.gle/E3S7ruQJzNRgYatD6)
 3. Shortlisted candidates will be notified by **April 15th, 2022**, followed by an online interview.
 4. Selected candidates will be notified by **April 29th, 2022**; Internship would start from **1st week of May 2022.**
 
-**Perks**
+##Perks
 1. Work experience in cutting edge areas of machine learning/AI on real-world customer experience management problems
 2. Stipend
