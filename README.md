@@ -32,7 +32,10 @@ horizontal federated learning is simulated by splitting the dataset horizontally
 ### Theme 2: Explainable AI based on causal reasoning
 
 ### Goal:
-Create an explainable causal model for churn which:<br><br>(a) automatically visualizes the causal structure in the observed data<br><br>(b) predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation)<br><br> The model should be built using CausalNex, an open-source project from McKinsey (https://github.com/quantumblacklabs/causalnex)
+Create an explainable causal model for churn which:
+1. automatically visualizes the causal structure in the observed data.
+2. Predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation)
+The model should be built using CausalNex, an open-source project from McKinsey (https://github.com/quantumblacklabs/causalnex)
 
 ### Success Criteria:
 1. Prediction accuracy of the causal model should be comparable to that of a baseline model based on RandomForest.
