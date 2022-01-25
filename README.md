@@ -20,9 +20,9 @@ Federated privacy-preserving model should have higher F1 score than a standard X
 
 *Brownie points for setting up an interactive demo of the model on public cloud, covering the following functionality:
 
-1. upload of encrypted datasets
-2. Secure learning of the model
-3. Inference on encrypted data; decryption of results at client end
+1. upload of encrypted datasets.
+2. Secure learning of the model.
+3. Inference on encrypted data; decryption of results at client end.
 
 ### Dataset:
 1. https://archive.ics.uci.edu/ml/datasets/bank+marketing (41188 instances, 20 features)
@@ -34,7 +34,8 @@ horizontal federated learning is simulated by splitting the dataset horizontally
 ### Goal:
 Create an explainable causal model for churn which:
 1. automatically visualizes the causal structure in the observed data.
-2. Predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation)
+2. Predicts if a user will churn, along with top-3 causal factors based on model's belief (as an explanation).
+
 The model should be built using CausalNex, an open-source project from McKinsey (https://github.com/quantumblacklabs/causalnex)
 
 ### Success Criteria:
